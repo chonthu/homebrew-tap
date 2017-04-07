@@ -6,7 +6,7 @@ class Rtail < Formula
   desc "Remote tail logging"
   homepage "https://github.com/chonthu/rtail"
   url "https://github.com/chonthu/rtail/releases/download/2.2.2/rtail.gz"
-  version "2.2.2"
+  version "2.2.2-rc.1"
   sha256 "6f1a8d992f5fc86b458571479277e67d0eea7e6809e39f8a9d674f5dd9aa3601"
 
   # depends_on "cmake" => :build
