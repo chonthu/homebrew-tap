@@ -7,7 +7,7 @@ class Rtail < Formula
   homepage "https://github.com/chonthu/rtail"
   url "https://github.com/chonthu/rtail/releases/download/2.2.2/rtail.gz"
   version "2.2.2"
-  sha256 "49dd640d640c139e857935a854c31718d74f505c5a30c8095a3c8f4fa88b8b73"
+  sha256 "6f1a8d992f5fc86b458571479277e67d0eea7e6809e39f8a9d674f5dd9aa3601"
 
   # depends_on "cmake" => :build
   # depends_on :x11 # if your formula requires any X11/XQuartz components
