@@ -5,7 +5,7 @@
 class Rtail < Formula
   desc "Remote tail logging"
   homepage "https://github.com/chonthu/rtail"
-  url "https://github.com/chonthu/rtail/releases/download/2.2.1/rtail.gz"
+  url "https://github.com/chonthu/rtail/releases/download/2.2.2/rtail.gz"
   version "2.2.2"
   sha256 "49dd640d640c139e857935a854c31718d74f505c5a30c8095a3c8f4fa88b8b73"
 
